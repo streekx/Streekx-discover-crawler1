@@ -2,7 +2,7 @@
 title: StreekX
 emoji: 🚀
 colorFrom: blue
-colorTo: black
+colorTo: gray
 sdk: docker
 app_port: 8080
 ---
